@@ -1,0 +1,33 @@
+year,assessment,group,pearson chi-square,p-value,cramers phi,sig
+2016,CES for Individuals - CES Survey Part 1,Black,46.9035,0.0,0.0763,True
+2017,CES for Individuals - CES Survey Part 1,Black,56.0208,0.0,0.068,True
+2018,CES for Individuals - CES Survey Part 1,Black,144.783,0.0,0.0967,True
+2019,CES for Individuals - CES Survey Part 1,Black,55.5969,0.0,0.0645,True
+2020,CES for Individuals - CES Survey Part 1,Black,15.0065,0.0001,0.0369,True
+2021,CES for Individuals - CES Survey Part 1,Black,45.3943,0.0,0.0623,True
+2022,CES for Individuals - CES Survey Part 1,Black,6.3298,0.0119,0.0269,True
+Overall,CES for Individuals - CES Survey Part 1,Black,374.162,0.0,0.0682,True
+2016,CES for Individuals - CES Survey Part 1,Latino,17.2393,0.0,0.057,True
+2017,CES for Individuals - CES Survey Part 1,Latino,24.3811,0.0,0.0518,True
+2018,CES for Individuals - CES Survey Part 1,Latino,117.1682,0.0,0.0982,True
+2019,CES for Individuals - CES Survey Part 1,Latino,31.0955,0.0,0.053,True
+2020,CES for Individuals - CES Survey Part 1,Latino,16.6221,0.0,0.0412,True
+2021,CES for Individuals - CES Survey Part 1,Latino,19.0458,0.0,0.0409,True
+2022,CES for Individuals - CES Survey Part 1,Latino,3.6135,0.0573,0.0206,False
+Overall,CES for Individuals - CES Survey Part 1,Latino,122.5931,0.0,0.0427,True
+2016,CES for Youth - Next Step Tool,Black,5.085,0.0241,0.1308,True
+2017,CES for Youth - Next Step Tool,Black,30.2113,0.0,0.1781,True
+2018,CES for Youth - Next Step Tool,Black,8.6309,0.0033,0.0689,True
+2019,CES for Youth - Next Step Tool,Black,21.2462,0.0,0.1273,True
+2020,CES for Youth - Next Step Tool,Black,4.5966,0.032,0.0727,True
+2021,CES for Youth - Next Step Tool,Black,25.3899,0.0,0.1724,True
+2022,CES for Youth - Next Step Tool,Black,21.3817,0.0,0.1552,True
+Overall,CES for Youth - Next Step Tool,Black,86.0766,0.0,0.111,True
+2016,CES for Youth - Next Step Tool,Latino,0.3845,0.5352,0.0379,False
+2017,CES for Youth - Next Step Tool,Latino,11.5437,0.0007,0.1141,True
+2018,CES for Youth - Next Step Tool,Latino,5.4637,0.0194,0.0632,True
+2019,CES for Youth - Next Step Tool,Latino,11.5949,0.0007,0.1001,True
+2020,CES for Youth - Next Step Tool,Latino,1.5182,0.2179,0.0456,False
+2021,CES for Youth - Next Step Tool,Latino,6.3314,0.0119,0.0947,True
+2022,CES for Youth - Next Step Tool,Latino,8.6024,0.0034,0.1133,True
+Overall,CES for Youth - Next Step Tool,Latino,33.7851,0.0,0.0764,True
