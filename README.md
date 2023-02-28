@@ -1,8 +1,8 @@
 # Los Angeles's Homelessness Scoring System
 
-This repository contains data and code to reproduce the findings featured in our story, "[L.A.’s Scoring System for Subsidized Housing Gives Black and Latino People Experiencing Homelessness Lower Priority Scores](TK)."
+This repository contains data and code to reproduce the findings featured in our story, "[L.A.’s Scoring System for Subsidized Housing Gives Black and Latino People Experiencing Homelessness Lower Priority Scores](https://themarkup.org/investigation/2023/02/28/l-a-s-scoring-system-for-subsidized-housing-gives-black-and-latino-people-experiencing-homelessness-lower-priority-scores)."
 
-Our methodology is described in "[How We Investigated L.A.’s Homelessness Scoring System](TK)."
+Our methodology is described in "[How We Investigated L.A.’s Homelessness Scoring System](https://themarkup.org/show-your-work/2023/02/28/how-we-investigated-l-a-s-homelessness-scoring-system)."
 
 We cleaned the original CRPA response from the Los Angeles Homeless Services Authority using [`notebooks/0-clean.ipynb`](notebooks/0-clean.ipynb) to create a cleaned file called [`data/assessments.csv`](data/assessments.csv), which we used for our analyses. Outputs for our analyses, which were used for graphics in our story, are available in the [`output`](output) folder.
 
