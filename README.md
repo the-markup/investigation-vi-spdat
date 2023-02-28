@@ -16,8 +16,7 @@ This notebook takes the original CPRA response, which we did not include in this
 
 ### [`notebooks/1-analysis.ipynb`](notebooks/1-analysis.ipynb)
 
-This notebook takes [`
-ments.csv`](data/assessments.csv) and performs several analyses, including chi-square tests for both the Next Step Tool and the CES Survey Part 1. It outputs several `.csv` files we use for graphics in both our story and methodology, all of which are available in the [`output`](output) folder.
+This notebook takes [`data/assessments.csv`](data/assessments.csv) and performs several analyses, including chi-square tests for both the Next Step Tool and the CES Survey Part 1. It outputs several `.csv` files we use for graphics in both our story and methodology, all of which are available in the [`output`](output) folder.
 
 ### [`notebooks/2-regressions.ipynb`](notebooks/2-regressions.ipynb)
 
